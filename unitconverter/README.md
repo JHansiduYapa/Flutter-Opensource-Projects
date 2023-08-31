@@ -2,7 +2,11 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange.svg)](https://www.buymeacoffee.com/janithhansidu)
 
-![Unit Converter App](https://github.com/janith99hansidu/Flutter-opensource-projects/unitconverter/screenshots/1.png)
+![Unit Converter App](https://github.com/janith99hansidu/Flutter-opensource-projects/blob/main/unitconverter/screenshots/1.png)
+<div>
+  <img src="https://github.com/janith99hansidu/Flutter-opensource-projects/blob/main/unitconverter/screenshots/1.png" alt="Image 1" width="400" />
+  <img src="https://github.com/janith99hansidu/Flutter-opensource-projects/blob/main/unitconverter/screenshots/2.png" alt="Image 2" width="400" />
+</div>
 
 The Unit Converter App built in Flutter is a versatile and easy-to-use tool designed to simplify unit conversions for various measurement types. Whether you're a student, a professional, or anyone needing quick and accurate unit conversions, this app has you covered. With its intuitive user interface and wide range of supported units, you can perform conversions on the go.
 
